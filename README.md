@@ -1,6 +1,6 @@
 # Face-Recog-Age-Gender-Emotion-
 
-Development of the real-time computer vision solution with model integration
+Real-time computer vision solution with model integration. It will detect person Face, Age, Gender and Emotion in frame 
 
 ### Methodology/Principal:-
 
