@@ -25,4 +25,4 @@ https://github.com/yu4u/age-gender-estimation/releases/download/v0.5/weights.28-
 
 Try this markdown:
 
-![alt text](Howdy_First_Frame.png)
+![alt text](result.png)
