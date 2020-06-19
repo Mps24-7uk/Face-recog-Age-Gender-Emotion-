@@ -6,7 +6,7 @@ Real-time computer vision solution with model integration. It will detect person
 
 * Implementation of Dlib to detect the face ROI (Region of interest).
 
-* ROI is used to classifying the for Age, Gender, Emotion from the Pre-trained weight.
+* ROI is feeded to the Pre-trained weight to classify the for Age, Gender, Emotion.
 
 * Face_recognition 1.2.3 module is implemented to detect Modi and Trump face. 
 
